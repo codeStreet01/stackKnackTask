@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACI,cACJ,CACA,aACI,SACJ","file":"main.928d48ea.chunk.css","sourcesContent":[".footer{\r\n    margin-top: 1px;\r\n}\r\n.footer span{\r\n    color: red;\r\n}\r\n"]}
